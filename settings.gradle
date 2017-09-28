@@ -1,1 +1,1 @@
-include ':app', ':viewstub'
+include ':app', ':viewstub', ':lambda', ':atomicreference', ':testsensor'
