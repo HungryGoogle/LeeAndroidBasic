@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeeAndroidBasic.iml" filepath="$PROJECT_DIR$/LeeAndroidBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJson/TestJson.iml" filepath="$PROJECT_DIR$/TestJson/TestJson.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/atomicreference/atomicreference.iml" filepath="$PROJECT_DIR$/atomicreference/atomicreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iospopwindow/iospopwindow.iml" filepath="$PROJECT_DIR$/iospopwindow/iospopwindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playwavsound/playwavsound.iml" filepath="$PROJECT_DIR$/playwavsound/playwavsound.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsensor/testsensor.iml" filepath="$PROJECT_DIR$/testsensor/testsensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewstub/viewstub.iml" filepath="$PROJECT_DIR$/viewstub/viewstub.iml" />
     </modules>
   </component>

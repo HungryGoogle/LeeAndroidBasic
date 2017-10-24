@@ -8,10 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/TestJson" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/atomicreference" />
+            <option value="$PROJECT_DIR$/iospopwindow" />
             <option value="$PROJECT_DIR$/lambda" />
+            <option value="$PROJECT_DIR$/playwavsound" />
             <option value="$PROJECT_DIR$/testsensor" />
+            <option value="$PROJECT_DIR$/testservice" />
             <option value="$PROJECT_DIR$/viewstub" />
           </set>
         </option>
