@@ -1,1 +1,1 @@
-include ':app', ':viewstub', ':lambda', ':atomicreference', ':testsensor', ':testservice', ':TestJson', ':iospopwindow', ':playwavsound'
+include ':app', ':viewstub', ':lambda', ':atomicreference', ':testsensor', ':testservice', ':TestJson', ':iospopwindow', ':playwavsound', ':spinner', ':testspinner', ':phonereceiver'

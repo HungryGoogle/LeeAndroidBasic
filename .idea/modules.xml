@@ -8,9 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/atomicreference/atomicreference.iml" filepath="$PROJECT_DIR$/atomicreference/atomicreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/iospopwindow/iospopwindow.iml" filepath="$PROJECT_DIR$/iospopwindow/iospopwindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonereceiver/phonereceiver.iml" filepath="$PROJECT_DIR$/phonereceiver/phonereceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/playwavsound/playwavsound.iml" filepath="$PROJECT_DIR$/playwavsound/playwavsound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsensor/testsensor.iml" filepath="$PROJECT_DIR$/testsensor/testsensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testspinner/testspinner.iml" filepath="$PROJECT_DIR$/testspinner/testspinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewstub/viewstub.iml" filepath="$PROJECT_DIR$/viewstub/viewstub.iml" />
     </modules>
   </component>

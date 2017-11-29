@@ -62,11 +62,11 @@ public class BottomUpMenu {
         dialog = new Dialog(context, R.style.ActionSheetDialogStyle);
         dialog.setContentView(view);
         Window dialogWindow = dialog.getWindow();
-        dialogWindow.setGravity(Gravity.LEFT | Gravity.BOTTOM);
-        WindowManager.LayoutParams lp = dialogWindow.getAttributes();
-        lp.x = 0;
-        lp.y = 0;
-        dialogWindow.setAttributes(lp);
+//        dialogWindow.setGravity(Gravity.LEFT | Gravity.BOTTOM);
+//        WindowManager.LayoutParams lp = dialogWindow.getAttributes();
+//        lp.x = 0;
+//        lp.y = 0;
+//        dialogWindow.setAttributes(lp);
 
         return this;
     }

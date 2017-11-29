@@ -76,35 +76,35 @@ public class MainActivity extends Activity implements SensorEventListener {
         if(localWakeLock == null){
             return;
         }
-
-        float[] values = event.values;
-        Log.i("leeTest------>", "value = " + event.sensor.getType());
-        switch (event.sensor.getType()) {
-            case Sensor.TYPE_PROXIMITY:
-
-                if (values[0] == 0.0) {
-                    // 贴近手机
-                    System.out.println("hands up");
-                    Log.i("leeTest------>", String.valueOf(values[0]));
-
-                    // 判断是否已经申请了锁
-                    if (localWakeLock.isHeld()) {
-                        return;
-                    } else {
-                        // 申请设备电源锁
-                        localWakeLock.acquire();
-                    }
-                } else {
-                    // 远离手机
-                    System.out.println("hands moved");
-                    Log.i("leeTest------>", String.valueOf(values[0]));
-
-                    localWakeLock.setReferenceCounted(false);
-                    localWakeLock.release(); // 释放设备电源锁
-
-                    break;
-                }
-        }
+//
+//        float[] values = event.values;
+//        Log.i("leeTest------>", "value = " + event.sensor.getType());
+//        switch (event.sensor.getType()) {
+//            case Sensor.TYPE_PROXIMITY:
+//
+//                if (values[0] == 0.0) {
+//                    // 贴近手机
+//                    System.out.println("hands up");
+//                    Log.i("leeTest------>", String.valueOf(values[0]));
+//
+//                    // 判断是否已经申请了锁
+//                    if (localWakeLock.isHeld()) {
+//                        return;
+//                    } else {
+//                        // 申请设备电源锁
+//                        localWakeLock.acquire();
+//                    }
+//                } else {
+//                    // 远离手机
+//                    System.out.println("hands moved");
+//                    Log.i("leeTest------>", String.valueOf(values[0]));
+//
+//                    localWakeLock.setReferenceCounted(false);
+//                    localWakeLock.release(); // 释放设备电源锁
+//
+//                    break;
+//                }
+//        }
     }
 
     @Override

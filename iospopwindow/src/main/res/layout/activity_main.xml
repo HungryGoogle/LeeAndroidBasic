@@ -11,4 +11,22 @@
         android:layout_height="wrap_content"
         android:text="仿ios底部菜单弹窗"/>
 
+    <RadioGroup
+        android:id="@+id/radioGroupID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/femaleGroupID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="female"
+            />
+        <RadioButton
+            android:id="@+id/maleGroupID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="male"/>
+    </RadioGroup>
+
 </android.support.constraint.ConstraintLayout>

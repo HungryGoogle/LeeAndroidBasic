@@ -13,9 +13,12 @@
             <option value="$PROJECT_DIR$/atomicreference" />
             <option value="$PROJECT_DIR$/iospopwindow" />
             <option value="$PROJECT_DIR$/lambda" />
+            <option value="$PROJECT_DIR$/phonereceiver" />
             <option value="$PROJECT_DIR$/playwavsound" />
+            <option value="$PROJECT_DIR$/spinner" />
             <option value="$PROJECT_DIR$/testsensor" />
             <option value="$PROJECT_DIR$/testservice" />
+            <option value="$PROJECT_DIR$/testspinner" />
             <option value="$PROJECT_DIR$/viewstub" />
           </set>
         </option>
